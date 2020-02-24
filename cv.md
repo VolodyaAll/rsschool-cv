@@ -1,2 +1,5 @@
 1. Uladzimir Sharai
-2. +375 44 7002522, email^ volodya22all@gmail.com
+2. +375 44 7002522, email: volodya22all@gmail.com
+3. I want to make complicated things easier
+4. Ruby, RoR, HTML, CSS, JS, Java
+5. https://github.com/VolodyaAll/CollectInfoFromPetsonic
